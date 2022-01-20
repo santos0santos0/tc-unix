@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v -u *.html /tmp 
+cp -v -u /tmp/*.html ~/tc-unix 
