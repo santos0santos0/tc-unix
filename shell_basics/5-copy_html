@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v file_1.html file_2.html ~/tc-unix 
+cp -v -u *.html ~/tc-unix 
